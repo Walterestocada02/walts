@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+}
+
+.background-image{
+    background-color: #000000;
+    background-image: url(fut.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 0;
+    height: 0;
+}
+

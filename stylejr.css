@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    border: none;
+    outline: none;
+    font-family: 'Poppins', sans-serif;
+}
+
+.background-image{
+    background-color: #000000;
+    background-image: url(journey.jpg);
+    background-size: center;
+    background-repeat: no-repeat;
+    width: 500x;
+    height: 60%;
+}
